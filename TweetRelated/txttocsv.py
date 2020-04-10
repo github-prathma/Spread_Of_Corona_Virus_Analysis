@@ -1,6 +1,6 @@
 import csv
 import re
-with open('Uncleaned_TweetInfo.txt', 'r') as infile, open('uncleanedtweet.csv', 'w') as outfile:
+with open('TweetInfo.txt', 'r') as infile, open('uncleanedtweet.csv', 'w') as outfile:
     stripped = (line.strip() for line in infile)
     new_list = []
     for text in stripped:
