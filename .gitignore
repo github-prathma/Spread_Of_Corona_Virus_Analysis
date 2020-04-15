@@ -6,3 +6,6 @@ TweetRelated/.DS_Store
 .DS_Store
 TweetRelated/NewTweetInfo.csv
 .vscode/settings.json
+TweetRelated/.ipynb_checkpoints/FetchAllIds-checkpoint.ipynb
+TweetRelated/.ipynb_checkpoints/FetchTweetData-checkpoint.ipynb
+TweetRelated/.ipynb_checkpoints/FetchAllIds-checkpoint.ipynb
