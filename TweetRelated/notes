@@ -1,0 +1,9 @@
+1. Since # positive > # negative, we need to find several case examples of positive tweets. For example, to show users' support to their government, medical personnel, familty, etc.
+
+2. Currently I only plot based on the sequence of tweets being posted to get some initial conclusions and see if experiments work. However, a better way should be
+    a). grouping tweets by day/hour, for all tweets within the same day/hour, make their average in plotting.
+        In other ways, for example, for the figure tweetSentiPolarity_sequence.eps, we should get a similar one while its x-axis should be either
+            i). # Days Since 2020-01-21, or
+            ii). # Hours Since 2020-01-21-22
+
+    b). grouping tweets by country, and then conduct similar experiments
