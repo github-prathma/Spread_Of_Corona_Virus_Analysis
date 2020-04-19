@@ -11,3 +11,4 @@ TweetRelated/.ipynb_checkpoints/FetchTweetData-checkpoint.ipynb
 TweetRelated/.ipynb_checkpoints/FetchAllIds-checkpoint.ipynb
 .DS_Store
 PredictionModel/.ipynb_checkpoints/PredictBasedOnConfirmedCase-checkpoint.ipynb
+PredictionModel/.ipynb_checkpoints/PredictionOnSymptom-checkpoint.ipynb
