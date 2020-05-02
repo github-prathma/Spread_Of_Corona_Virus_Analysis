@@ -1,0 +1,5 @@
+search_tweets_api:
+  account_type: premium
+  consumer_key: ''
+  consumer_secret: ''
+  endpoint: https://api.twitter.com/1.1/tweets/search/fullarchive/HG.json
