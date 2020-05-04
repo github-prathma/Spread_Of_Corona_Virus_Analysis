@@ -29,15 +29,15 @@ Following are the objectives of this project:
 
 ## How to run
 * Go to *Results*
-* Folder **Time_Series_Results : **
+* Folder **Time_Series_Results :**
   * Run **TimeSeriesPlots.ipynb** to see the trend of impact of COVID-19
   * Run **TimeSeriesForecastingPlots.ipynb** to see the forecasting
   
-* Folder **Sentiment_Analysis_Tweets: **
+* Folder **Sentiment_Analysis_Tweets:**
   * **Twitter-data-graphs** contains time-series plotting of number of tweets-ids per day contains the dataset from repository     [COVID-19-TweetIDs](https://github.com/echen102/COVID-19-TweetIDs) (**Note:** Do not run *timeseries-graph.ipynb*)
   * Run **sentiment_analysis.ipynb** to see the sentiments on impact of COVID-19 on the basis of number of tweets posted per       day.
   * Run **SentimentAnalysis_per_day_country _final.ipynb.ipynb** to see the sentiments on impact on COVID-19 on different         countries on the basis of number of tweets posted per day (**Note:** currently the code is based on US sentiments)
-* Folder **Gov_Policies_Sentiment_Analysis: **
+* Folder **Gov_Policies_Sentiment_Analysis:**
   * Run **Sentiment_Analysis_Govt_Tweets.ipynb** to see the sentiments on government policies with respect to government           twitter profiles mentioned in objective above.
 * Folder **Prediction_Model_Results:**
   * Run **PredictBasedOnConfirmedCase.ipynb** to see the accuracy of results on experiments mentioned in the last point of         objective above.
